@@ -130,3 +130,5 @@ dmypy.json
 .pyre/
 
 rps*
+!rps.py
+pretrained
