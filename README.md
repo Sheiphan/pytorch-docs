@@ -1,5 +1,21 @@
 # Deep Learning with PyTorch Step-by-Step
 
+## New book: "A Hands-On Guide to Fine-Tuning LLMs"
+
+<p align="center">
+  <img src="https://github.com/dvgodoy/FineTuningLLMs/blob/main/images/cover.png?raw=True" width="200"/>
+  <br>
+  <strong><a href="https://www.amazon.com/dp/B0DV3Y1GMP">Kindle</a> | <a href="https://www.amazon.com/dp/B0DV4H7YW2">Paperback</a> | <a href="https://leanpub.com/finetuning">PDF [Leanpub]<a> | <a href="https://danielgodoy.gumroad.com/l/finetuning">PDF [Gumroad]<a></strong>
+</p>
+
+## Revised for PyTorch 2.x!
+The revised version addresses changes in PyTorch, Torchvision, HuggingFace, and other libraries. The chapters most affected were Chapter 4 (in Volume II) and Chapter 11 (in Volume III).
+
+Please check the PDFs below containing the changes (check the paragraphs highlighted in red):
+- [Changes to Volume I](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/revision/v1.2/Revision_Volume1_v1.2.pdf)
+- [Changes to Volume II](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/revision/v1.2/Revision_Volume2_v1.2.pdf)
+- [Changes to Volume III](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/revision/v1.2/Revision_Volume3_v1.2.pdf)
+
 [![](images/new_books.png)](https://pytorchstepbystep.com)
 
 This is the official repository of my book "**Deep Learning with PyTorch Step-by-Step**". Here you will find **one Jupyter notebook** for every **chapter** in the book.

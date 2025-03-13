@@ -1,7 +1,0 @@
-{
-    "workbench.colorCustomizations": {
-      "editorGroup.border": "#6ce6bd",  // Border color for editor groups
-      "sideBar.border": "#ff0000",      // Border color for sidebar
-      "activityBar.border": "#ff0000"  // Border color for activity bar
-    }
-}
